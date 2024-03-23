@@ -1,1 +1,1 @@
-# blog-styling-react-radio-button-with-tailwind
+This is repository for the blog post: [Styling radio button with Tailwind](https://marek-rozmus.medium.com/styling-radio-button-with-tailwind-6e16d6c0d68d?source=friends_link&sk=88489a3610d7c176eb4ca90161c46f0a)
